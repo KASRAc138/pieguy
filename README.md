@@ -1,5 +1,7 @@
 # 🥧 PieGuy
 
+![PieGuy settings](assets/screenshot.png)
+
 A radial pie menu for Windows that works in every app. Hold a key, flick toward a slice, and release. Each slice can run anything from one shortcut to a multi-step automation (proxy → Firefox → Telegram → send file).
 
 ## Setup — make it a real app (once)
